@@ -1,0 +1,13 @@
+bin/
+obj/
+*.db
+*.sqlite
+*.db3
+*.log
+.vs/
+*.user
+*.suo
+*.userosscache
+*.DS_Store
+erp-orders.db
+/*.user
