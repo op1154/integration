@@ -1,0 +1,41 @@
+{
+  "version": 2,
+  "dgSpecHash": "kjBi638taoY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dell\\OneDrive - TecSup Informatica\\Documents\\Code\\API_local\\ErpOrdersDemo\\ErpOrdersDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.12\\microsoft.data.sqlite.core.8.0.12.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.12\\microsoft.entityframeworkcore.8.0.12.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.12\\microsoft.entityframeworkcore.abstractions.8.0.12.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\8.0.12\\microsoft.entityframeworkcore.analyzers.8.0.12.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\8.0.12\\microsoft.entityframeworkcore.relational.8.0.12.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite\\8.0.12\\microsoft.entityframeworkcore.sqlite.8.0.12.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite.core\\8.0.12\\microsoft.entityframeworkcore.sqlite.core.8.0.12.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.extensions.dependencymodel\\8.0.2\\microsoft.extensions.dependencymodel.8.0.2.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\3.0.0\\sqlitepclraw.bundle_e_sqlite3.3.0.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\sqlitepclraw.config.e_sqlite3\\3.0.0\\sqlitepclraw.config.e_sqlite3.3.0.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\sqlitepclraw.core\\3.0.0\\sqlitepclraw.core.3.0.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\3.50.3\\sqlitepclraw.lib.e_sqlite3.3.50.3.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\3.0.0\\sqlitepclraw.provider.e_sqlite3.3.0.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "message": "ErpOrdersDemo depends on SQLitePCLRaw.bundle_e_sqlite3 (>= 2.2.9) but SQLitePCLRaw.bundle_e_sqlite3 2.2.9 was not found. SQLitePCLRaw.bundle_e_sqlite3 3.0.0 was resolved instead.",
+      "projectPath": "C:\\Users\\Dell\\OneDrive - TecSup Informatica\\Documents\\Code\\API_local\\ErpOrdersDemo\\ErpOrdersDemo.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\Dell\\OneDrive - TecSup Informatica\\Documents\\Code\\API_local\\ErpOrdersDemo\\ErpOrdersDemo.csproj",
+      "libraryId": "SQLitePCLRaw.bundle_e_sqlite3",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}
